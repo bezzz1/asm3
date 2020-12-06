@@ -2821,7 +2821,7 @@ msgstr ""
 
 #: header_edit_header.js common.js html.py
 msgid "Courtesy Listing"
-msgstr "Списък с пожелания"
+msgstr "За осиновяване"
 
 #: dbupdate.py
 msgid "Cow"
