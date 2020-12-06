@@ -68,7 +68,7 @@ msgstr "(без промяна)"
 
 #: medical.js test.js vaccination.js
 msgid "(no deduction)"
-msgstr "не се допуска"
+msgstr "изберете стока"
 
 #: shelterview.js html.py
 msgid "(none)"
@@ -3743,7 +3743,7 @@ msgstr ""
 
 #: animal_bulk.js common.js
 msgid "Do Not Register Microchip"
-msgstr "Не регистрирай микрочипът"
+msgstr "Няма микрочип"
 
 #: options.js
 msgid "Do not show"
@@ -6259,7 +6259,7 @@ msgstr "Спиноне Италиано"
 
 #: medical.js test.js vaccination.js
 msgid "Item"
-msgstr "Вещ"
+msgstr "Продукт"
 
 #: dbupdate.py
 msgid "Jack Russell Terrier"
