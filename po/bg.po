@@ -148,7 +148,7 @@ msgstr "Движението трябва да има дата на резерв
 
 #: movement.py
 msgid "A person is required for this movement type."
-msgstr "Избирането на човек е необходимо за този тип движение."
+msgstr "Избирането на човек е необходимо за този тип местене."
 
 #: publish.js
 msgid "A publish job is already running."
